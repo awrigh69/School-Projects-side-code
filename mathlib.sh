@@ -1,6 +1,6 @@
 # Lab Assignment #6
 #
-# Your name: Andrew Wright
+# Your name: 
 # 
 # By turning in this code, I Pledge:
 # That I have completed the programming assignment independently.
