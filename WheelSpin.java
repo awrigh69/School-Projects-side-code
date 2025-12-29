@@ -1,5 +1,4 @@
 /**************************************************
-		Andrew Wright
 		Mini-project 2
 		Price is right/wheel spin
 ***************************************************/
@@ -194,4 +193,5 @@ public class WheelSpin {
 	}		
 			
 			
+
 			
