@@ -1,8 +1,3 @@
-/**************************************************
-		Mini-project 2
-		Price is right/wheel spin
-***************************************************/
-
 
 import java.util.Scanner;
 
@@ -195,3 +190,4 @@ public class WheelSpin {
 			
 
 			
+
