@@ -1,13 +1,3 @@
-#!/bin/bash
-#
-# Lab Assignment #6
-#
-# Your name:
-# 
-# By turning in this code, I Pledge:
-# That I have completed the programming assignment independently.
-# I have not copied the code from a student or any source.
-# I have not given my code to any student.
 
 source ./mathlib.sh
 
