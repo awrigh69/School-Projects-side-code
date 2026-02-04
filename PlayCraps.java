@@ -1,8 +1,3 @@
-/**************************************************
-		Mini-project 2
-		Craps game! 2 dice win with 7 or 11. Loss with 2, 3 or 12. Other other rolls add up to the point. Keep rolling to hit point, 7 is a loss.
-***************************************************/
-
 
 import java.util.Scanner;
 
@@ -95,5 +90,6 @@ public class PlayCraps {
 		}	
 	}		
 }
+
 
 
