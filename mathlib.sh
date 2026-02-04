@@ -1,3 +1,4 @@
+#!/bin/bash
 
 add() {
     result=$(( numb1 + numb2 ))
